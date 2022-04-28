@@ -1,0 +1,15 @@
+/home/mjchaurasia/C#/findOccurance/bin/Debug/net6.0/findOccurance
+/home/mjchaurasia/C#/findOccurance/bin/Debug/net6.0/findOccurance.deps.json
+/home/mjchaurasia/C#/findOccurance/bin/Debug/net6.0/findOccurance.runtimeconfig.json
+/home/mjchaurasia/C#/findOccurance/bin/Debug/net6.0/findOccurance.dll
+/home/mjchaurasia/C#/findOccurance/bin/Debug/net6.0/findOccurance.pdb
+/home/mjchaurasia/C#/findOccurance/obj/Debug/net6.0/findOccurance.csproj.AssemblyReference.cache
+/home/mjchaurasia/C#/findOccurance/obj/Debug/net6.0/findOccurance.GeneratedMSBuildEditorConfig.editorconfig
+/home/mjchaurasia/C#/findOccurance/obj/Debug/net6.0/findOccurance.AssemblyInfoInputs.cache
+/home/mjchaurasia/C#/findOccurance/obj/Debug/net6.0/findOccurance.AssemblyInfo.cs
+/home/mjchaurasia/C#/findOccurance/obj/Debug/net6.0/findOccurance.csproj.CoreCompileInputs.cache
+/home/mjchaurasia/C#/findOccurance/obj/Debug/net6.0/findOccurance.dll
+/home/mjchaurasia/C#/findOccurance/obj/Debug/net6.0/refint/findOccurance.dll
+/home/mjchaurasia/C#/findOccurance/obj/Debug/net6.0/findOccurance.pdb
+/home/mjchaurasia/C#/findOccurance/obj/Debug/net6.0/findOccurance.genruntimeconfig.cache
+/home/mjchaurasia/C#/findOccurance/obj/Debug/net6.0/ref/findOccurance.dll
